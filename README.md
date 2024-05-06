@@ -1,32 +1,20 @@
-# Getting Started with Create React App
+# Fetching API data in React + Typescript
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+. How to Fetch the API Data in React + Typescript
+. How to display the fetched Data to the user
+. How many different ways are there to fetch API data in ReactJS
 
-## Available Scripts
+1 Fetch API,
+2 Axios,
+3 XMLHttpRequest (XHR),
+4 React's useEffect with Fetch,
+5 React Query,
+7 Redux with Redux Thunk or Redux Saga,
+7 Redux,
+8 GraphQL,
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
+> Will use vsCode as our IDE
+> Will use the styled component to style our fetched Data (nothing major)
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm run eject`
